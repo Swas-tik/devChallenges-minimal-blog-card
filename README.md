@@ -1,1 +1,1 @@
-[**Basic responsive minimal blog card**]([url](https://swas-tik.github.io/devChallenges-minimal-blog-card/))
+[Basic responsive minimal blog card](https://swas-tik.github.io/devChallenges-minimal-blog-card/)
